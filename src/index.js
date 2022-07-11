@@ -10,7 +10,7 @@ function App() {
       <h1>Welcome,dear passenger</h1>
       <h2>Watch right now!</h2>
       <VideoPlayer
-        url="https://ktpublic-pics.s3.amazonaws.com/SampleVideo_720x480_2mb.mp4"
+        url='movies/_Sleepwalk_ - Short Film - Trailer (2018).mp4'
         autosize
         loop
       />
